@@ -1,0 +1,13 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+	background-image: url("https://images5.alphacoders.com/708/thumb-1920-708231.png");
+}
+
+div{
+background: rgba(255,255,255,0.5);
+}
+
+a {
+  color: #00B7FF;
+}
